@@ -1,6 +1,9 @@
+
 ## 📊 Model Trend Animation
 
-![Regression Trend](regression_trend.gif)
+<p align="center">
+  <img src="regression_trend.gif" width="700">
+</p>
 
 # 🏠 House Price Prediction using Simple Linear Regression
 
