@@ -1,3 +1,7 @@
+## 📊 Model Trend Animation
+
+![Regression Trend](regression_trend.gif)
+
 # 🏠 House Price Prediction using Simple Linear Regression
 
 This project implements **Simple Linear Regression** to predict house prices using a single independent variable.
